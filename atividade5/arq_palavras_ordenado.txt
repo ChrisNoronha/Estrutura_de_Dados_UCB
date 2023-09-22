@@ -1,0 +1,4 @@
+arq_palavras_ordenado.txt
+amanha
+depois
+hoje

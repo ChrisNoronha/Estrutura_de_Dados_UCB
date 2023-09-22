@@ -1,0 +1,4 @@
+arq_palavras.txt
+hoje
+amanha
+depois
